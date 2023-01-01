@@ -1,8 +1,8 @@
 # Computacao-Grafica!
 
-Trabalho desenvolvido pela Aluna Caroline Kolassa e Pedro Lucas Agostini para a disciplina de computação gráfica da URI Erechim 
+Trabalho desenvolvido pela Aluna Caroline Kolassa e Pedro Lucas Agostini para a disciplina de computação gráfica da URI Erechim, onde o objetivo era criar uma cena de um jogo utilizando o 3dMax e a linguagem C#
 
-[Uploading 3ds.png…]()
+![3ds](https://user-images.githubusercontent.com/61890562/210184612-63157ab1-398a-409e-9291-07ec2a0fa2b7.png)
 
 ![implementacao](https://user-images.githubusercontent.com/61890562/210184558-fddb2791-6682-45d9-be11-e8bfaa44b64f.png)
 
