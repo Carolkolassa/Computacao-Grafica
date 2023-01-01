@@ -1,6 +1,7 @@
 # Computacao-Grafica!
 
-Trabalho desenvolvido pela Aluna Caroline Kolassa e Pedro Lucas Agostini para a disciplina de computação gráfica da URI Erechim, onde o objetivo era criar uma cena de um jogo utilizando o 3dMax e a linguagem C#
+Trabalho desenvolvido pela Aluna Caroline Kolassa e Pedro Lucas Agostini para a disciplina de computação gráfica da URI Erechim, onde o objetivo era criar uma cena de um jogo utilizando o 3ds Max e a linguagem C#
+O arquivo da solução chama-se BaseAppOpenGL.sln, ele pode ser aberto no VS studio code community. Os arquivos Scene* possuem as imagens utilizadas e o minecraftmaxV9.max é o projeto feito no 3ds Max
 
 ![3ds](https://user-images.githubusercontent.com/61890562/210184612-63157ab1-398a-409e-9291-07ec2a0fa2b7.png)
 
