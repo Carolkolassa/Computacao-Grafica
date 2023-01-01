@@ -6,7 +6,7 @@ Trabalho desenvolvido pela Aluna Caroline Kolassa e Pedro Lucas Agostini para a 
 
 ![implementacao](https://user-images.githubusercontent.com/61890562/210184558-fddb2791-6682-45d9-be11-e8bfaa44b64f.png)
 
-![implementacao2](https://user-images![jogo1](https://user-images.githubusercontent.com/61890562/210184566-81a58693-f2c5-4441-805f-ab808f34304c.jpeg)
+![implementacao2](https://user-images.githubusercontent.com/61890562/210184636-bf355ba2-9064-48ea-ad68-d16ce4531b1d.png)
 
 ![implementacao3](https://user-images.githubusercontent.com/61890562/210184570-00b898d8-9434-4372-8f24-c91b3b9f04e2.png)
 
